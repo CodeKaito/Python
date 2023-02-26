@@ -4,7 +4,7 @@
 
 1. [ Introduction. ](#introduction)
 2. [ Python Quickstart. ](#start)
-3. [ Java Syntax. ](#syntax)
+3. [ Python Syntax. ](#syntax)
     - [ Main() Method ](#main)
     - [ System.out.println() ](#print)
 4. [ Java Output / Print ](#output)
