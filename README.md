@@ -3,7 +3,7 @@
 ## Python Basics
 
 1. [ Introduction. ](#introduction)
-2. [ Java Quickstart. ](#start)
+2. [ Python Quickstart. ](#start)
 3. [ Java Syntax. ](#syntax)
     - [ Main() Method ](#main)
     - [ System.out.println() ](#print)
