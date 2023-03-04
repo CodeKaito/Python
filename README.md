@@ -9,7 +9,7 @@
     - [ Print Variables ](#printvariables)
     - [ Multiple Variables ](#multiplevariables)
     - [ Identifiers ](#identifiers)
-5. [ Java If...Else ](#if)
+5. [ Python If...Else ](#if)
     - [ Java Conditions and If Statements ](#if2)
     - [ Else Statement ](#else)
     - [ Else If Statement ](#elseif)
