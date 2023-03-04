@@ -19,6 +19,4 @@
     - [ For each loops ](#foreach)
 8. [ Java Arrays ](#arrays)
 ---------------------------
-...
-.
-..
+
